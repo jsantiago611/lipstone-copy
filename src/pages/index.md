@@ -29,16 +29,23 @@ sections:
   - title: 'HERE''S WHY HUNDREDS OF LOCAL CONSUMERS CHOOSE OUR AGENCY:'
     section_id: lorem-ipsum
     content: >-
-      ## Lorem ipsum
+      Unlike captive and direct insurance companies who try to hard-sell
+      proprietary products and coverages, our agency is different because we are
+      100% independent of any one company.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      We have access to a wide range of some of the highest rated insurance
+      companies in the country, and we provide customer service that you can
+      only get from a team of people who truly care about protecting you and
+      your family, and possessions.
 
 
-      - Lorem ipsum
+      #### We do the heavy lifting for you
 
-      - dolor sit amet
+
+      What's more, you don't have to lift a finger. We'll take your current
+      coverage and provide you with a detailed comparison, showing you all of
+      your available coverage and pricing options.
     image_alt: lorem-ipsum
     background: gray
     actions: []
