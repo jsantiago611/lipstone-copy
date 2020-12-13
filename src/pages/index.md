@@ -49,7 +49,7 @@ sections:
     image_alt: lorem-ipsum
     background: gray
     actions:
-      - label: lorem-ipsum
+      - label: Start Proposal
         url: lorem-ipsum
         primary: false
         new_window: false
