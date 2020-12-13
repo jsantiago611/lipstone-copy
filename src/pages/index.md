@@ -192,7 +192,7 @@ sections:
     template: section_cta
   - title: Are you a current client of our agency? How can we help you today?
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: ''
     background: gray
     pricing_plans: []
     type: section_pricing
