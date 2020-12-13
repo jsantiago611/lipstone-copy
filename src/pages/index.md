@@ -17,7 +17,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Learn More
+        label: Call Us
         url: /features
         primary: true
   - type: section_features
