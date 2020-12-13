@@ -5,7 +5,7 @@ meta_description: The preview of the Azimuth theme
 sections:
   - type: section_hero
     template: section_hero
-    title: 'WE ARE YOUR TRUSTED CARY, NC INSURANCE AGENCY'
+    title: 'We are your trusted Cary, NC Insurance Agency'
     section_id: hero
     content: >+
       If you're looking for a local, independent expert we're the only agency
