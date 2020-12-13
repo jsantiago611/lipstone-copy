@@ -68,7 +68,7 @@ sections:
     title: Real Feedback from our Awesome Customers
     section_id: reviews
     subtitle: ''
-    background: gray
+    background: white
     reviews:
       - type: review_item
         template: review_item
