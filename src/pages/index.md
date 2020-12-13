@@ -100,7 +100,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: 'Start Proposals Here '
+        label: Start Proposals Here arrow
         url: /signup
         primary: true
   - type: section_features
