@@ -5,7 +5,7 @@ meta_description: The preview of the Azimuth theme
 sections:
   - type: section_hero
     template: section_hero
-    title: This Is A Big Hero Headline
+    title: 'WE ARE YOUR TRUSTED CARY, NC INSURANCE AGENCY'
     section_id: hero
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
