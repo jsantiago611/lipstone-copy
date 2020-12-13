@@ -26,7 +26,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-  - title: ''
+  - title: 'HERE''S WHY HUNDREDS OF LOCAL CONSUMERS CHOOSE OUR AGENCY:'
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
