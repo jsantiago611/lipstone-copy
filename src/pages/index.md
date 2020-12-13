@@ -182,7 +182,7 @@ sections:
     section_id: lorem-ipsum
     subtitle: 'We''ll shop and compare for you, saving you time, aggravation, and money!'
     actions:
-      - label: lorem-ipsum
+      - label: Start Proposals Here
         url: lorem-ipsum
         primary: false
         new_window: false
