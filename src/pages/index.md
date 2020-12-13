@@ -177,7 +177,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-        highlight: true
+        highlight: false
         actions: []
         type: pricing_plan
     type: section_pricing
