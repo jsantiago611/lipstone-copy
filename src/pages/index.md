@@ -178,7 +178,7 @@ sections:
         type: faq_item
     type: section_faq
     template: section_faq
-  - title: lorem-ipsum
+  - title: GET STARTED ONLINE IN SECONDS
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
