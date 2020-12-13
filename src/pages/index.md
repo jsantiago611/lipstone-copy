@@ -63,6 +63,7 @@ sections:
         type: action
     type: section_content
     template: section_content
+    image: /images/9.jpg
   - type: section_reviews
     template: section_reviews
     title: Real Feedback from our Awesome Customers
