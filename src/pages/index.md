@@ -166,12 +166,5 @@ sections:
     pricing_plans: []
     type: section_pricing
     template: section_pricing
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    background: gray
-    pricing_plans: []
-    type: section_pricing
-    template: section_pricing
 template: landing
 ---
