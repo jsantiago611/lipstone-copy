@@ -190,7 +190,7 @@ sections:
         type: action
     type: section_cta
     template: section_cta
-  - title: lorem-ipsum
+  - title: Are you a current client of our agency? How can we help you today?
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
