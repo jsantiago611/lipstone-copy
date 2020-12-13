@@ -178,5 +178,11 @@ sections:
         type: faq_item
     type: section_faq
     template: section_faq
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    type: section_cta
+    template: section_cta
 template: landing
 ---
