@@ -195,7 +195,7 @@ sections:
     subtitle: ''
     background: gray
     pricing_plans:
-      - title: lorem-ipsum
+      - title: ''
         price: DISCUSS CLAIM
         details: >-
           ## Lorem ipsum
