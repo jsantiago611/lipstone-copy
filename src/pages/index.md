@@ -96,7 +96,7 @@ sections:
     template: section_cta
     title: Get started online in seconds
     section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
+    subtitle: 'We''ll shop and compare for you, saving you time, aggravation, and money!'
     actions:
       - type: action
         template: action
