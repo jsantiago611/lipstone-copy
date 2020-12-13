@@ -114,10 +114,13 @@ sections:
       - type: feature_item
         template: feature_item
         title: Choice
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >+
+          Being Independent means that we don't work for any one insurance
+          company. We have the ability to search multiple companies on your
+          behalf, acting as a negotiator, to find you the best possible policy
+          and price. You never have to haggle with an agent or insurance company
+          again.
+
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         actions:
