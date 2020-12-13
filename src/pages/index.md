@@ -52,7 +52,7 @@ sections:
       - label: Start Proposal
         url: lorem-ipsum
         primary: true
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
       - label: All Products
