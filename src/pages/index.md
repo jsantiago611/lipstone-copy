@@ -92,6 +92,17 @@ sections:
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
+  - type: section_cta
+    template: section_cta
+    title: This Is Call To Action Block!
+    section_id: call-to-action
+    subtitle: This is an optional description for the call to action block.
+    actions:
+      - type: action
+        template: action
+        label: Get Started
+        url: /signup
+        primary: true
   - type: section_features
     template: section_features
     title: 'HERE''S WHY HUNDREDS OF LOCAL CONSUMERS CHOOSE OUR AGENCY:'
@@ -141,17 +152,6 @@ sections:
             template: action
             label: Learn More
             url: /features
-  - type: section_cta
-    template: section_cta
-    title: This Is Call To Action Block!
-    section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - type: action
-        template: action
-        label: Get Started
-        url: /signup
-        primary: true
   - type: section_posts
     template: section_posts
     title: Latest Posts
