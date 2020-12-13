@@ -181,7 +181,13 @@ sections:
   - title: GET STARTED ONLINE IN SECONDS
     section_id: lorem-ipsum
     subtitle: 'We''ll shop and compare for you, saving you time, aggravation, and money!'
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        primary: false
+        new_window: false
+        no_follow: false
+        type: action
     type: section_cta
     template: section_cta
 template: landing
