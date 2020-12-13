@@ -156,11 +156,6 @@ sections:
             template: action
             label: Learn More
             url: /features
-  - type: section_posts
-    template: section_posts
-    title: Latest Posts
-    section_id: recent-posts
-    background: gray
   - title: lorem-ipsum
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
@@ -183,5 +178,10 @@ sections:
         type: faq_item
     type: section_faq
     template: section_faq
+  - type: section_posts
+    template: section_posts
+    title: Latest Posts
+    section_id: recent-posts
+    background: gray
 template: landing
 ---
