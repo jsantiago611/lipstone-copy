@@ -26,7 +26,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-  - title: 'HERE''S WHY HUNDREDS OF LOCAL CONSUMERS CHOOSE OUR AGENCY:'
+  - title: 'Here''s why hundreds of local consumers choose our agency:'
     section_id: lorem-ipsum
     content: >-
       Unlike captive and direct insurance companies who try to hard-sell
