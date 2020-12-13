@@ -180,7 +180,7 @@ sections:
     template: section_faq
   - title: GET STARTED ONLINE IN SECONDS
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: 'We''ll shop and compare for you, saving you time, aggravation, and money!'
     actions: []
     type: section_cta
     template: section_cta
