@@ -105,7 +105,7 @@ sections:
         primary: true
   - type: section_features
     template: section_features
-    title: 'HERE''S WHY HUNDREDS OF LOCAL CONSUMERS CHOOSE OUR AGENCY:'
+    title: More reasons to do business with the LipStone agency
     section_id: features
     subtitle: ''
     background: gray
