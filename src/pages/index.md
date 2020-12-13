@@ -28,7 +28,7 @@ sections:
         type: action
   - type: section_features
     template: section_features
-    title: Features
+    title: 'HERE''S WHY HUNDREDS OF LOCAL CONSUMERS CHOOSE OUR AGENCY:'
     section_id: features
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
