@@ -7,9 +7,11 @@ sections:
     template: section_hero
     title: 'WE ARE YOUR TRUSTED CARY, NC INSURANCE AGENCY'
     section_id: hero
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: >+
+      If you're looking for a local, independent expert we're the only agency
+      you need. To get started, enter your information on our website here or
+      call us direct.
+
     image: images/hero.png
     image_alt: App preview
     actions:
