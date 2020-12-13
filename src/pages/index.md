@@ -65,7 +65,7 @@ sections:
     template: section_content
   - type: section_reviews
     template: section_reviews
-    title: Testimonials
+    title: Real Feedback from our Awesome Customers
     section_id: reviews
     subtitle: >-
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
